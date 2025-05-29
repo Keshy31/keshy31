@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Keshy31/keshy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Keshav Mohabir, the technical co-founder at [CAT.design](https://www.catdesign.ltd/). As a passionate full-stack developer, my expertise lies in **JavaScript** and full-stack apps, building robust and scalable solutions for various projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite Projects
+
+- [**Smokesignal**](https://github.com/Keshy31/smokesignal): A project I'm particularly proud of!
+- [**Beachplease**](https://github.com/Keshy31/beachplease): Another one of my favorite creations.
+
+## Achievements and Interests
+
+- **Hobbies**: AI and Comedy are two of my greatest interests. I love exploring the world of artificial intelligence and creating laughter along the way!
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/keshavmohabir/)
+
+Feel free to reach out—I love connecting with like-minded individuals!
