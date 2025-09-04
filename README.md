@@ -8,14 +8,14 @@ Here are some of the projects I'm most proud of:
 
 ### 🤖 AI & Reinforcement Learning
 
-  * **[Flowga: The Local AI Yoga Instructor](https://www.google.com/search?q=https://github.com/Keshy31/flowga)**: A privacy-first yoga instruction app that uses a local-only Vision Language Model (VLM) and real-time computer vision to provide personalized feedback on yoga poses. It operates entirely on the user's machine, ensuring complete data privacy.
-  * **[Librarian: AI-Powered Ebook Query System](https://www.google.com/search?q=https://github.com/Keshy31/librarian)**: An AI-powered system for querying and interacting with ebooks. Built with LangChain, it allows users to ask questions, retrieve passages, and summarize content from their personal library, all while running locally and offline.
-  * **[EntangleRL: Quantum State Preparation](https://www.google.com/search?q=https://github.com/Keshy31/RL-Quantum-State-Prep)**: This project applies reinforcement learning to the complex task of quantum state preparation in a simulated quantum environment. The system uses Proximal Policy Optimization (PPO) to train an agent to apply a sequence of quantum gates to reach a target state with high fidelity.
-  * **[21 Stones](https://www.google.com/search?q=https://github.com/Keshy31/RL-21-Stones-Arduino)**: A project that demonstrates reinforcement learning on an Arduino microcontroller. The AI agent learns to play the 21 stone game through simulated games and then applies that knowledge on a physical device to compete against human players.
+  * **[Flowga: The Local AI Yoga Instructor](https://github.com/Keshy31/flowga)**: A privacy-first yoga instruction app that uses a local-only Vision Language Model (VLM) and real-time computer vision to provide personalized feedback on yoga poses. It operates entirely on the user's machine, ensuring complete data privacy.
+  * **[Librarian: AI-Powered Ebook Query System](https://github.com/Keshy31/librarian)**: An AI-powered system for querying and interacting with ebooks. Built with LangChain, it allows users to ask questions, retrieve passages, and summarize content from their personal library, all while running locally and offline.
+  * **[EntangleRL: Quantum State Preparation](https://github.com/Keshy31/RL-Quantum-State-Prep)**: This project applies reinforcement learning to the complex task of quantum state preparation in a simulated quantum environment. The system uses Proximal Policy Optimization (PPO) to train an agent to apply a sequence of quantum gates to reach a target state with high fidelity.
+  * **[21 Stones](https://github.com/Keshy31/RL-21-Stones-Arduino)**: A project that demonstrates reinforcement learning on an Arduino microcontroller. The AI agent learns to play the 21 stone game through simulated games and then applies that knowledge on a physical device to compete against human players.
 
 ### 💻 Web Development
 
-  * **[SeeMyCity](https://www.google.com/search?q=https://github.com/Keshy31/municipal-financial-dashboard)**: A web application designed to provide transparent, actionable insights into the financial health of South African municipalities. It empowers users with a clear view of municipal performance through a composite score, visualized on an interactive map.
+  * **[SeeMyCity](https://github.com/Keshy31/municipal-financial-dashboard)**: A web application designed to provide transparent, actionable insights into the financial health of South African municipalities. It empowers users with a clear view of municipal performance through a composite score, visualized on an interactive map.
   * **[Smokesignal](https://github.com/Keshy31/smokesignal)**: A project I'm particularly proud of\!
   * **[Beachplease](https://github.com/Keshy31/beachplease)**: Another one of my favorite creations.
 
@@ -23,7 +23,6 @@ Here are some of the projects I'm most proud of:
 
   * **[Spark: Interactive Visual Stimulation](https://github.com/Keshy31/spark)**: An interactive visual stimulation application featuring high-contrast patterns, gradients, and gentle animations to support visual cortex development, eye tracking, and focus.
   * **[CAT.design Landing Page](https://github.com/Keshy31/cat.design)**: Modern, responsive site for our firm, highlighting creative problem-solving. Uses HTML/CSS/JS with Flickity carousels, scroll animations, and semantic structure.
-
 
 ## 🛠️ Skills
 
@@ -33,10 +32,6 @@ Here are some of the projects I'm most proud of:
   * **AI/ML**: TensorFlow, PyTorch, LangChain, OpenAI API, Hugging Face, PufferLib
   * **Databases**: MongoDB, PostgreSQL, SQL
   * **Other**: Git, Docker, GraphQL
-
-## 🏆 Achievements and Interests
-
-When I'm not coding, you can find me exploring the world of Artificial Intelligence or enjoying a good comedy show.
 
 ## 📫 Connect with Me
 
