@@ -1,20 +1,46 @@
-# Hi there! 👋
+# Hi there\! I'm Keshav Mohabir 👋
 
-## About Me
+I'm a passionate full-stack developer and the technical co-founder at [CAT.design](https://www.catdesign.ltd/). My expertise lies in **JavaScript** and **Python**, but I dabble in all languages depending on the mood. I'm driven by a fascination with Artificial Intelligence and a love for comedy.
 
-I'm Keshav Mohabir, the technical co-founder at [CAT.design](https://www.catdesign.ltd/). As a passionate full-stack developer, my expertise lies in **JavaScript** and full-stack apps, building robust and scalable solutions for various projects.
+## 🚀 Featured Projects
 
-## Favorite Projects
+Here are some of the projects I'm most proud of:
 
-- [**Smokesignal**](https://github.com/Keshy31/smokesignal): A project I'm particularly proud of!
-- [**Beachplease**](https://github.com/Keshy31/beachplease): Another one of my favorite creations.
+### 🤖 AI & Reinforcement Learning
 
-## Achievements and Interests
+  * **[Flowga: The Local AI Yoga Instructor](https://www.google.com/search?q=https://github.com/Keshy31/flowga)**: A privacy-first yoga instruction app that uses a local-only Vision Language Model (VLM) and real-time computer vision to provide personalized feedback on yoga poses. It operates entirely on the user's machine, ensuring complete data privacy.
+  * **[Librarian: AI-Powered Ebook Query System](https://www.google.com/search?q=https://github.com/Keshy31/librarian)**: An AI-powered system for querying and interacting with ebooks. Built with LangChain, it allows users to ask questions, retrieve passages, and summarize content from their personal library, all while running locally and offline.
+  * **[EntangleRL: Quantum State Preparation](https://www.google.com/search?q=https://github.com/Keshy31/RL-Quantum-State-Prep)**: This project applies reinforcement learning to the complex task of quantum state preparation in a simulated quantum environment. The system uses Proximal Policy Optimization (PPO) to train an agent to apply a sequence of quantum gates to reach a target state with high fidelity.
+  * **[21 Stones](https://www.google.com/search?q=https://github.com/Keshy31/RL-21-Stones-Arduino)**: A project that demonstrates reinforcement learning on an Arduino microcontroller. The AI agent learns to play the 21 stone game through simulated games and then applies that knowledge on a physical device to compete against human players.
 
-- **Hobbies**: AI and Comedy are two of my greatest interests. I love exploring the world of artificial intelligence and creating laughter along the way!
+### 💻 Web Development
 
-## Connect with Me
+  * **[SeeMyCity](https://www.google.com/search?q=https://github.com/Keshy31/municipal-financial-dashboard)**: A web application designed to provide transparent, actionable insights into the financial health of South African municipalities. It empowers users with a clear view of municipal performance through a composite score, visualized on an interactive map.
+  * **[Smokesignal](https://github.com/Keshy31/smokesignal)**: A project I'm particularly proud of\!
+  * **[Beachplease](https://github.com/Keshy31/beachplease)**: Another one of my favorite creations.
 
-- [LinkedIn](https://www.linkedin.com/in/keshavmohabir/)
+### ✨ Other Projects
 
-Feel free to reach out—I love connecting with like-minded individuals!
+  * **[Spark: Interactive Visual Stimulation](https://github.com/Keshy31/spark)**: An interactive visual stimulation application featuring high-contrast patterns, gradients, and gentle animations to support visual cortex development, eye tracking, and focus.
+  * **[CAT.design Landing Page](https://github.com/Keshy31/cat.design)**: Modern, responsive site for our firm, highlighting creative problem-solving. Uses HTML/CSS/JS with Flickity carousels, scroll animations, and semantic structure.
+
+
+## 🛠️ Skills
+
+  * **Languages**: JavaScript, Python, Rust
+  * **Frontend**: Svelte, React, HTML, CSS
+  * **Backend**: Node.js, Express
+  * **AI/ML**: TensorFlow, PyTorch, LangChain, OpenAI API, Hugging Face, PufferLib
+  * **Databases**: MongoDB, PostgreSQL, SQL
+  * **Other**: Git, Docker, GraphQL
+
+## 🏆 Achievements and Interests
+
+When I'm not coding, you can find me exploring the world of Artificial Intelligence or enjoying a good comedy show.
+
+## 📫 Connect with Me
+
+  * **LinkedIn**: [linkedin.com/in/keshavmohabir](https://www.linkedin.com/in/keshavmohabir/)
+  * **GitHub**: [github.com/Keshy31](https://github.com/Keshy31/)
+
+Feel free to reach out—I'm always open to connecting with like-minded individuals and exploring new opportunities\!
