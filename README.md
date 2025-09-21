@@ -8,9 +8,9 @@ Here are some of the projects I'm most proud of:
 
 ### 🤖 AI & Reinforcement Learning
 
+  * **[EntangleRL: Quantum State Preparation](https://github.com/Keshy31/entangleRL)**: This project applies reinforcement learning to the complex task of quantum state preparation in a simulated quantum environment. The system uses Proximal Policy Optimization (PPO) to train an agent to apply a sequence of quantum gates to reach a target state with high fidelity.
   * **[Flowga: The Local AI Yoga Instructor](https://github.com/Keshy31/flowga)**: A privacy-first yoga instruction app that uses a local-only Vision Language Model (VLM) and real-time computer vision to provide personalized feedback on yoga poses. It operates entirely on the user's machine, ensuring complete data privacy.
   * **[Librarian: AI-Powered Ebook Query System](https://github.com/Keshy31/librarian)**: An AI-powered system for querying and interacting with ebooks. Built with LangChain, it allows users to ask questions, retrieve passages, and summarize content from their personal library, all while running locally and offline.
-  * **[EntangleRL: Quantum State Preparation](https://github.com/Keshy31/entangleRL)**: This project applies reinforcement learning to the complex task of quantum state preparation in a simulated quantum environment. The system uses Proximal Policy Optimization (PPO) to train an agent to apply a sequence of quantum gates to reach a target state with high fidelity.
   * **[21 Stones](https://github.com/Keshy31/21_stones)**: A project that demonstrates reinforcement learning on an Arduino microcontroller. The AI agent learns to play the 21 stone game through simulated games and then applies that knowledge on a physical device to compete against human players.
 
 ### 💻 Web Development
